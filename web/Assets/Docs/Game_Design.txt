@@ -1,0 +1,35 @@
+
+GAME: Ibn Al‑Nasr Battle
+
+Main Mode:
+Battle Royale – 50 Players
+
+Map Focus:
+Nasiriyah (Dhi Qar)
+
+Important Locations:
+• Hospital
+• School
+• Police Station
+• Factories
+• River with boats
+
+Vehicles:
+• Iraqi Saipa car
+• Super Saipa
+• Police car
+• Tanks
+• Boats
+
+Special Feature:
+Drones (automatic flying)
+Players can ride them and use them for scouting.
+
+Game Modes:
+• Solo
+• Duo
+• Squad
+• Custom Room
+
+Target:
+Low graphics so it works on most phones.
